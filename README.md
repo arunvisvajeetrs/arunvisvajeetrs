@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunvisvajeetrs&langs_count=10&layout=compact&theme=dark&border_radius=30" alt="arunvisvajeetrs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunvisvajeetrs&show_icons=true&count_private=true&theme=dark&hide=stars&border_radius=30" alt="arunvisvajeetrs" /></p>
+<p>&nbsp;<img align="center" max-width="450px" src="https://github-readme-stats.vercel.app/api?username=arunvisvajeetrs&show_icons=true&count_private=true&theme=dark&hide=stars&border_radius=30" alt="arunvisvajeetrs" /></p>
 
 - 🔭 I’m currently working on **React, ES6, Typescript, SCSS, CSS3**
 
